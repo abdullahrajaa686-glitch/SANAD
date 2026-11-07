@@ -1,6 +1,6 @@
 {
- "name": "سند الذكي",
- "short_name": "سند",
+ "name": "سند App",
+ "short_name": "سند App",
  "lang": "ar",
  "dir": "rtl",
  "start_url": "./index.html",
